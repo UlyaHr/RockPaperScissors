@@ -1,6 +1,6 @@
 # Rock Paper Scissors Image Classifier
 
-![](ml_logo.jpg)
+![](logo.jpg)
 
 An ML model built with Keras Library to Classify Image that uploaded by Users to categorize it as Rock, Paper, or Scissors. Model was trained with dataset provided by Dicoding, which included 2000+ images of rock, paper, and scissors hands.
 
