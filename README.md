@@ -6,7 +6,7 @@ An ML model built with Keras Library to Classify Image that uploaded by Users to
 
 > This notebook was a submission for IBM Indonesia New Collar and Skill Acceleration Center X Dicoding 2020
 
-<a href="https://colab.research.google.com/drive/16o_LtFxxgeBip6-vMLAqqH6qIty1zgdD?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/16o_LtFxxgeBip6-vMLAqqH6qIty1zgdD?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Technology Used
 :heavy_check_mark: TensorFlow (Keras)
